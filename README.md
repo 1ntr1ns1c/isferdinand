@@ -9,7 +9,7 @@
 <p align="center">I'm a Software Developer from Nairobi Kenya.</p>
 
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Nodejs, Docker<br>🎲 Fun fact: Software engineering is a hard physical labor and it's also a team sport.</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular & Spring<br>🎲 Fun fact: Software engineering is a hard physical labor and it's also a team sport.</p>
 
 ###
 
@@ -70,4 +70,3 @@
 ###
 -->
 
-###
